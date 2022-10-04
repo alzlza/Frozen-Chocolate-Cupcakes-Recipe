@@ -8,7 +8,7 @@
   
   <body>
       <img src= "https://www.icegif.com/wp-content/uploads/chef-pusheen-icegif.gif"> 
-   <h2> <strong> The Ingredients that you'll need are: </strong> </h2>
+   <h1> <strong> The Ingredients that you'll need are: </strong> </h1>
       <ul>
         <li> 1/2 a cup of Powdered Sugar </li>
         <li> Around 8 Hershey's chocolate bars </li>
