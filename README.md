@@ -2,14 +2,14 @@
 <html>
  
   <head>
-   <h4> <strong> Today we are going to be making a recipe that has been made before I was born! We used to beg my mother to make these all the time because of how deliciously sugary the recipe is, and now, I'll be teaching you how to make it for your own delight! </strong> </h4> 
+   <h1> <strong> Today we are going to be making a recipe that has been made before I was born! We used to beg my mother to make these all the time because of how deliciously sugary the recipe is, and now, I'll be teaching you how to make it for your own delight! </strong> </h1> 
     <img src= "https://media0.giphy.com/media/nrSRWL9TNU3LiSKznp/giphy.gif?cid=6c09b952kh9lo7velb212uy36if4pc52z7lh0lwn7bi418mv&rid=giphy.gif&ct=s"> 
     <h1> <a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/MYPVQccHhAQ)"> <u> Something to listen as you make!  </u> </a> </h1>
   </head> 
   
   <body>
       <img src= "https://www.icegif.com/wp-content/uploads/chef-pusheen-icegif.gif"> 
-   <h1> <strong> The Ingredients that you'll need are: </strong> </h1>
+   <h2> <strong> The Ingredients that you'll need are: </strong> </h2>
       <ul>
         <li> <strong> 1/2 a cup of Powdered Sugar </strong> </li>
         <li> <strong> Around 8 Hershey's chocolate bars </strong> </li>
@@ -17,7 +17,7 @@
         <li> <strong> 1 & 1/2 cup of Peanut butter (preferably the creamy, smooth kind) </strong> </li>
         <li> <strong> Cupcake wrappers + pan </strong> </li>
       </ul> 
-   <h2> <strong> STEPS </strong> </h2>
+   <h3> <strong> STEPS </strong> </h3>
   <ul> 
         <li> <strong> Bake your brownies, the ingrredients tend to be on the boxed versions. ,i> DO NOT START ON CUPCAKES TILL YOUR BROWNIES ARE COMPLETELY COOL. </i> </strong> </li>
         <li> <strong> Mix the powdered sugar and peanut butter together to create a less sticky consistency. This will make it easier to stay in the cupcake, while also decreasing the strong taste of the peanut butter </strong> </li>
