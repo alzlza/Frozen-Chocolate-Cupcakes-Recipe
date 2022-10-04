@@ -4,7 +4,7 @@
   <head>
    <h1> <strong> Today we are going to be making a recipe that has been made before I was born! We used to beg my mother to make these all the time because of how deliciously sugary the recipe is, and now, I'll be teaching you how to make it for your own delight! </strong> </h1> 
     <img src= "https://media0.giphy.com/media/nrSRWL9TNU3LiSKznp/giphy.gif?cid=6c09b952kh9lo7velb212uy36if4pc52z7lh0lwn7bi418mv&rid=giphy.gif&ct=s"> 
-    <h1> <a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/MYPVQccHhAQ)"> <u> Something to listen as you make!  </u> </a> </h1>
+    <h1> <a href="https://youtu.be/MYPVQccHhAQ"> <u> Something to listen as you make!  </u> </a> </h1>
   </head> 
   
   <body>
