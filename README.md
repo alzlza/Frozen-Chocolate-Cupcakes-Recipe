@@ -7,14 +7,14 @@
   </head> 
   
   <body>
-      <img src= "https://mail.google.com/mail/u/0?ui=2&ik=db4e974acc&attid=0.3&permmsgid=msg-a:r-5693632500245815336&th=183a2094a3743a1f&view=att&disp=safe&realattid=f_l8tx4c4h4"> 
+      <img src= "https://www.icegif.com/wp-content/uploads/chef-pusheen-icegif.gif"> 
  <p1> The Ingredients that you'll need are: </p1>
       <ul>
         <li> 1/2 a cup of Powdered Sugar </li>
         <li> Around 8 Hershey's chocolate bars </li>
         <li> Brownies (any kind) </li>
         <li> 1 & 1/2 cup of Peanut butter (preferably the creamy, smooth kind) </li>
-        <li> Cupcake wrappes + pan </li>
+        <li> Cupcake wrappers + pan </li>
       </ul> 
         <h3> STEPS </h3>
   <ul> 
