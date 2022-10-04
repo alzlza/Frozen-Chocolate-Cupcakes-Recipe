@@ -20,7 +20,7 @@
       </ul> 
    <h3> <strong> STEPS </strong> </h3>
   <ul> 
-        <li> <strong> Bake your brownies, the ingrredients tend to be on the boxed versions. ,i> DO NOT START ON CUPCAKES TILL YOUR BROWNIES ARE COMPLETELY COOL. </i> </strong> </li>
+        <li> <strong> Bake your brownies, the ingrredients tend to be on the boxed versions. <i> DO NOT START ON CUPCAKES TILL YOUR BROWNIES ARE COMPLETELY COOL. </i> </strong> </li>
         <li> <strong> Mix the powdered sugar and peanut butter together to create a less sticky consistency. This will make it easier to stay in the cupcake, while also decreasing the strong taste of the peanut butter </strong> </li>
         <li> <strong> Melt your chocolate into a big bowl </strong> </li>
         <li> <strong> Get out your cupcake wrappers and set them out into your cupcake pan </strong> </li>
