@@ -26,6 +26,6 @@
 </body> 
 
 <style>
-   background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=db4e974acc&attid=0.1&permmsgid=msg-a:r-5693632500245815336&th=183a2094a3743a1f&view=att&disp=safe&realattid=f_l8tx4c360");
-  background-color: #ADD8E6;
+body {background:#add8e6;}
 </style>
+
