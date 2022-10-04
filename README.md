@@ -2,7 +2,8 @@
 <html>
 <head>
   <h1> FROZEN CHOCOLATE PEANUT BUTTER BROWNIE CUPCAKES </h1>
-  <h2> this recipe makes around 16 cupcakes! </h2>
+  <h2> (this recipe makes around 16 cupcakes!) </h2>
+  <img src= "https://mail.google.com/mail/u/0?ui=2&ik=db4e974acc&attid=0.3&permmsgid=msg-a:r-5693632500245815336&th=183a2094a3743a1f&view=att&disp=safe&realattid=f_l8tx4c4h4">  </img>
 <style> 
 body {
  <img src= "[https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-sapling.png](https://mail.google.com/mail/u/0?ui=2&ik=db4e974acc&attid=0.5&permmsgid=msg-a:r-5693632500245815336&th=183a2094a3743a1f&view=att&disp=safe&realattid=f_l8tx4c3u2)">  </img>
